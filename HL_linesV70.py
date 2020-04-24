@@ -3,6 +3,9 @@
 #                           colormap in hamletdisplayV110.py
 # Status as of 3/9/2020   -- V60--THIS VERSION FROZEN.  DO NOT WORK ON OR CHANGE IN ANYWAY.
 
+#this is a line to change this file.  To test git adn github and PyCharm
+#delete after it all works
+
 # The program seems to work completely.  It can:
 #   1. Build the interface in tkinter
 #   2. Read in the eventfile and fill the two list boxes with scrollable
