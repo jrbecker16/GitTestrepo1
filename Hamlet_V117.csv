@@ -1,0 +1,159 @@
+1,Elder Hamlet invades Norway,Elder Hamlet ,invades  Norway,1,801,901,PA,Elder_Hamlet,Elder_Norway,0,0,-30,0,0.5
+2,While Elder Hamlet is away Claudius beds Gertrude,Claudius sleeps ,with Gertrude,20,100,600,PA,Claudius,Gertrude,0,0,-30,0,0.5
+3,Claudius kills Elder Hamlet,Claudius poisons , Elder Hamlet,25,400,850,PA,Claudius,Elder_Hamlet,0,0,-30,0,0.5
+4,Claudius marries Gertrude   makes himself king,Claudius marrys ,Gertrude,50,350,550,PA,Claudius,Gertrude,0,0,-30,0,0.5
+5,Barnardo describes Ghost to Horatio and Marcellus,Barnardo describes ,Ghost,136,800,50,PA,Barnardo,Marcellus,Horatio,0,-30,0,0.5
+6,Ghost of Elder Hamlet appears,Ghost appears,,146,725,575,PA,Ghost,Horatio,Marcellus,0,-30,0,0.5
+7,Ghost of Elder Hamlet reappears,Ghost reappears,,237,750,630,PA,Ghost,Horatio,Marcellus,0,-30,0,0.5
+8,Cock crows Ghost disappears,Cock Crows,,250,650,495,PA,Ghost,0,0,0,-30,0,0.5
+9,Horatio decides to tell Hamlet,Horatio decides ,to tell Hamlet,285,910,225,PA,Horatio,0,0,0,-30,0,0.5
+10,Claudius sends V& C to Norway ,V & C sent ,to Norway,324,50,600,PA,Claudius,Voltmand,Cornelius,0,-30,0,0.5
+11,Claudius gives Laertes permission to return to France,Claudius gives L ,permission to go,341,425,625,PA,Claudius,Laertes,0,0,-30,0,0.5
+12,Claudius refuses Hamlet permission to return to University at Wittenberg,Claudius does not,allow Hamlet to leave,405,550,710,PA,Claudius,Hamlet,Gertrude,0,-30,0,0.5
+13,Horatio tell Hamlet about the Ghost,Horatio tell Hamlet ,about Ghost,487,900,505,PA,Hamlet,Horatio,0,0,-30,0,0.5
+14,Hamlet decides to stand watch,Hamlet decides, to stand watch,552,850,600,PA,Hamlet,0,0,0,-30,0,0.5
+15,Laertes and Polonius warn Ophelia against Hamlet,Polonius Laertes warn,Ophelia about Hamlet,576,500,210,PA,Ophelia,Laertes,Polonius,0,-30,0,0.5
+16,Ophelis agrees to avoid Hamlet,Ophelia agrees, to avoid Hamlet,715,600,400,PA,Ophelia,Polonius,0,0,-30,0,0.5
+17,Ghost reappears  beckons Hamlet,Ghost beckons, Hamlet,777,850,800,PA,Ghost,Hamlet,0,0,-30,0,0.5
+18,Hamlet leaves with Ghost,Hamlet leaves ,with Ghost,811,920,950,PA,Ghost,Hamlet,0,0,-30,0,0.5
+19,Horatio and Marcelles follow,Horation and ,Marcellus follow,815,850,275,PA,Horatio,Marcellus,0,0,-30,0,0.5
+20,Ghost tells Hamlet what really happened,Ghost tells Hamlet,He was killed by King,820,780,850,PA,Ghost,Hamlet,0,0,-30,0,0.5
+21,Hamlet swears revenge,Hamlet swears ,revenge,909,875,750,PA,Hamlet,Hamlet,0,0,-30,0,0.5
+22,Hamlet swears Horation and Marcellus to secrecy ,Hamlet swears Hor,Marcellus to secrecy,952,810,720,PA,Hamlet,Horatio,Marcellus,0,-30,0,0.5
+23,Polonius sends Reynaldo to Paris to give $ and note to Laertes; ,Pol sends Reynardo,to Paris,1130,450,150,PA,Polonius,Horatio,0,0,-30,0,0.5
+24,Ophelia describes Hamlet's behavior to Polonius.,Oph tells Pol ,of Hamlet's behaviour,1213,550,300,PA,Ophelia,Polonius,0,0,-30,0,0.5
+25,Pol tells Oph to come with to tell king.,Pol Oph decide,to tell King,1242,300,100,PA,Polonius,Ophelia,0,0,-30,0,0.5
+26, Hamlet writes to Ophelia ,Ham writes Oph,,1109,725,610,PA,Hamlet,Ophelia,0,0,-30,0,0.5
+27,Hamlet comes to visit her grabs arm  nods looks back,Ham visits Oph,,1120,650,500,PA,Hamlet,Ophelia,0,0,-30,0,0.5
+28,K & Q ask R &G to visit Ham; Q offers reward,K Q ask R G ,to vis Ham,1263,330,700,PA,Claudius,Gertrude,Rosencrantz,0,-30,0,0.5
+29,R & G decide to visit Ham,R G accept mission,,1289,300,200,PA,Rosencrantz,Claudius,Rosencrantz,0,-30,0,0.5
+30,Pol tells of return of V & C and guess about Ham; goes to get V C,Pol news of ,Norway and Hamlet,1305,610,150,PA,Polonius,Claudius,Gertrude,0,-30,0,0.5
+31,Volt relays news from Norway gives paper to K,News from Norway,,1323,110,300,PA,Voltemand,Claudius,Polonius,0,-30,0,0.5
+32,At request of K Norway stops Fortinbras prep agin Den,Nor stops Fort,,1099,720,710,PA,Elder_Norway,Fortinbras,Norway,0,-30,0,0.5
+33,Norway shifts $ and obj to Poles,Nor shifts Fort, to Poland,1110,701,650,PA,Elder_Norway,Fortinbras,Norway,0,-30,0,0.5
+34,Norway asks permission to cross Den on way to Poles  sends paper back to K,Nor asks King's,permission to cross,1120,780,550,PA,Elder_Norway,Fortinbras,Norway,0,-30,0,0.5
+35,Pol reads Hamlet's letter to Oph,Pol reads letter,,1354,600,100,PA,Polonius,Claudius,Gertrude,0,-30,0,0.5
+36,Pol lies about his words; devises test for Ham,Pol devises test,,1402,550,150,PA,Polonius,Claudius,Gertrude,0,-30,0,0.5
+37,King agreest to test,King oks test,,1444,400,700,PA,Claudius,Polonius,Gertrude,0,-30,0,0.5
+38,Ophelia gives Ham letter to Pol,Oph gives Hamlet's, letter to Pol,1120,600,300,PA,Ophelia,Polonius,0,0,-30,0,0.5
+39,Pol encounter with Ham; sets up to walk,Pol sets up ,test w/Ham,1445,400,100,PA,Polonius,Hamlet,0,0,-30,0,0.5
+40,Ham figures out that R & G sent by K & Q,Ham learns why,R&G were sent,1502,800,810,PA,Hamlet,Rosencrantz,Guildenstern,0,-30,0,0.5
+41,R tells Ham about actors,Ham learns ,about actors,1602,750,725,PA,Hamlet,Rosencrantz,Guildenstern,0,-30,0,0.5
+42,Pol tells Ham about actors; Ham sets Pol up Jepth story,Word of actors,Hamlet set up Pol,1667,710,675,PA,Hamlet,Rosencrantz,Guildenstern,0,-30,0,0.5
+43,Troop of players arrive at Elsinore,Players arrive,,1706,400,400,PA,First_player,First Player,0,0,-30,0,0.5
+44,Ham gets FP to act Pyrrhus,Ham sets scene, for play,1707,725,600,PA,Hamlet,Polonius,First Player,0,-30,0,0.5
+45,Ham requests Murder of Gonzago,Ham requests, Murder of Gonzago,1825,700,650,PA,Hamlet,First Player,0,0,-30,0,0.5
+46,Ham bemoans lack of passion,Ham bemoans, his lack of passion,1838,900,900,PA,Hamlet,0,0,0,-30,0,0.5
+47,Ham decides to add murder scene to provoke K,Ham decides ,murder scene,1879,850,800,PA,Hamlet,0,0,0,-30,0,0.5
+48,R&G inform K&Q that don't know cause for H; inform about play; K sends to H,R & G fail to find cause,of Hamlets madness,1897,150,700,PA,Claudius,Gertrude,Rosencrantz,0,-30,0,0.5
+49,K sends Q away; Q hopes love is reason: O agrees,King sends Q away,sets up Ophelia,1927,175,650,PA,Claudius,Gertrude,Ophelia,0,-30,0,0.5
+50,Polonius sets up scene with O; P and K hide,Pol sets up,Ophelia and Hamlet,1944,300,280,PA,Polonius,Claudius,Ophelia,0,-30,0,0.5
+51,H and O  K and P witness,Hamlet denies, loving Ophelia,1960,700,600,PA,Hamlet,Ophelia,Claudius,0,-30,0,0.5
+52,Ophelia realizes Hamlet does not love her,O realizes Hamlet,doesn't love her,2059,600,200,PA,Ophelia,0,0,0,-30,0,0.5
+53,K decides to send H to Eng; asks P his view,King decides send, Hamlet to England,2072,450,750,PA,Claudius,Polonius,0,0,-30,0,0.5
+54,P tells K to wait till after play and send Q to H; K agrees,Pol says wait ,until after Play,2086,410,50,PA,Polonius,Claudius,Ophelia,0,-30,0,0.5
+55,H tells players what he wants in play,H sets up play ,with Actors,2100,800,800,PA,Hamlet,player,0,0,-30,0,0.5
+57,H sets up Horatio to observe K,H sets up Horatio,to observe King,2154,775,650,PA,Hamlet,Horatio,0,0,-30,0,0.5
+59,"silent play about seduction; H tells O it's the ""mischief""",silent play,seduction,2244,200,300,PA,First_player,Hamlet,Ophelia,0,-30,0,0.5
+60,H setting up K & Q with affair  and plot to murder,acted play: K & Q affair,,2275,250,275,PA,First_player,Hamlet,Claudius,0,-30,0,0.5
+61,H describes plot as player acts out; murder ,Gonzago plot description,,2359,300,325,PA,First_player,Hamlet,Claudius,0,-30,0,0.5
+62,K rises and everyone leaves  except H and HO,K reacts and leaves,,2390,400,300,PA,Claudius,Gertrude,Polonius,0,-30,0,0.5
+63,Horatio confirms K reaction to poisoning,Ho confirms K reaction,,2396,800,100,PA,Horatio,Hamlet,0,0,-30,0,0.5
+64,R & G tell H that Q wants to see him  K furious,R & G tell of King's anger,tell Hamlet to go to Q,2421,350,50,PA,Rosencrantz,Hamlet,Guildenstern,0,-30,0,0.5
+65,recorder scene - H tells G he can't play him,H figures out R & G ,,2473,600,725,PA,Hamlet,Guildenstern,players,0,-30,0,0.5
+66,Polonius tells H to go to Q; weasel,Pol tells Ham, to go to Q,2502,530,125,PA,Polonius,Hamlet,0,0,-30,0,0.5
+67,Hamlet decides to be cruel to the Gertrude ,Ham decides to, be cruel to Q,2518,700,710,PA,Hamlet,0,0,0,-30,0,0.5
+68,K wants H out of the way,K tells R&G to, take Hamlet to Eng,2532,325,755,PA,Claudius,Rosencrantz,Guildenstern,0,-30,0,0.5
+69,P tells K that H going to Q; will hide and report,Pol informs King, plans to hide,2560,420,225,PA,Polonius,Claudius,0,0,-30,0,0.5
+70,Claudius regrets murder of Elder Hamlet  trys to pray,K regrets murder,kneels to pray,2571,420,750,PA,Claudius,0,0,0,-30,0,0.5
+71,Hamlet sees Claudius kneeling and decides not to kill while praying,H sees K kneeling ,decides not to kill him,2608,625,725,PA,Hamlet,Claudius,0,0,-30,0,0.5
+72,Claudius can't pray   rises,King can't pray,rises,2633,400,800,PA,Claudius,0,0,0,-30,0,0.5
+73,Polonius hides in Queen's room,Pol  hides, in Queen's room,2635,520,200,PA,Polonius,Gertrude,0,0,-30,0,0.5
+74,Q tells H that K is angry; H tells Q that she betrayed husband,H confronts Queen,  threatens her,2645,710,810,PA,Hamlet,Gertrude,0,0,-30,0,0.5
+75,Polonius reacts and calls for help,Pol reacts ,calls for help,2662,620,225,PA,Polonius,0,0,0,-30,0,0.5
+76,Hamlet stabs through the curtain  kills Polonius,Ham stabs curtain , killing Pol,2663,750,775,PA,Hamlet,Polonius,0,0,-30,0,0.5
+77,Hamlet rants at Q that her deeds are worse than his,Ham rants at Q ,about her deeds,2665,700,735,PA,Hamlet,Gertrude,0,0,-30,0,0.5
+78,Ghost appears but Q can't see; she is convinced that H is mad,Ghost  appears but ,Queen can't see,2752,650,550,PA,Ghost,Gertrude,Hamlet,0,-30,0,0.5
+79,H tells Q not to go to K bed; Q says heart broken; H decides to go to Eng  knowing plot,Ham tells Q not go to ,King's bed,2791,750,600,PA,Hamlet,Gertrude,0,0,-30,0,0.5
+80,Q tells K what Hamlet has done,Q tells King that,Hamlet killed Pol,2979,225,625,PA,Gertrude,Claudius,0,0,-30,0,0.5
+81,Claudius fears being blamed; decides to send Ham away; ,K fears being blamed,Will send Hamlet away,2987,300,610,PA,Claudius,Gertrude ,0,0,-30,0,0.5
+82,K sends R & G to Ham retrieve body,K sends R & G,to fetch Pols body,3008,250,700,PA,Claudius,Gertrude ,Rosencrantz,0,-30,0,0.5
+83,Ham refuses to tell R & G where Pol body is; tells R that K is using him,Ham refuses to tell,R&G about Pols body,3025,800,650,PA,Hamlet,Guildenstern,Hamlet,0,-30,0,0.5
+84,K concerned about public view of Ham; portray sending as deliberate,K concerned ,about opinion,3051,400,820,PA,Claudius,0,0,0,-30,0,0.5
+85,Ham toys with K; go to hell; reveals body loc; R&G sent,K sends R & G ,to get body,3063,350,700,PA,Claudius,Rosencrantz,Guildenstern,0,-30,0,0.5
+86,K tells Ham send to Eng for safety,K sends Hamlet ,to England for safety,3094,500,825,PA,Claudius,Hamlet,0,0,-30,0,0.5
+87,K reveals plans to have Hamlet killed in Eng,K reveals plan to kill ,Hamlet in England,3117,600,700,PA,Claudius,0,0,0,-30,0,0.5
+88,K writes letter to have Ham killed in Eng,K writes letter ,to have Hamlet killed,3040,550,750,PA,Claudius,0,0,0,-30,0,0.5
+89,Fort sends Cap to ask permission for promised crossing,Fort sends Captain, for permission,3128,800,100,PA,Fortinbras,Captain,0,0,-30,0,0.5
+90,Ham learns of Fortinbras goal  worthless land in Poland  army,Ham learns of ,Fort mission,3137,850,550,PA,Hamlet,Hamlet,0,0,-30,0,0.5
+91,Ham sees model for his own behavior; resolves bloody action,Ham sees model,resolves bloody act,3161,800,650,PA,Hamlet,0,0,0,-30,0,0.5
+92,Fortinbras has time to lead army to Denmark,Fort leads army, to Denmark,3077,800,150,PA,Fortinbras,0,0,0,-30,0,0.5
+93,Q learns O is mad; let's her come in,Q learns Ophelia,is mad,3197,215,700,PA,Gertrude,Horatio,Gentleman,0,-30,0,0.5
+94,O sings; says Lae will hear,Ophelia sings of ,death betrayal,3222,500,250,PA,Gertrude,Horatio,Ophelia,0,-30,0,0.5
+95,K bemoans multiple woes; worries he'll be accused,King bemoans ,mult woes,3276,350,675,PA,Claudius,Gertrude,0,0,-30,0,0.5
+96,K & Q learn Lae return in secret; people want Lae to be K,K Q learn of ,Laertes ,3304,500,725,PA,Claudius,Claudius,messenger,0,-30,0,0.5
+97,Lae breaks in  accuses K  wants to know killer of Pol,Lae breaks in,confronts King,3318,500,200,PA,Laertes,Claudius,Laertes,0,-30,0,0.5
+98,K confirms Lae desire for revenge; affirms innocence,King asks if Laertes,wants revenge,3355,375,645,PA,Claudius,Laertes,Gertrude,0,-30,0,0.5
+99,O reappears  sings again; Laertes devastated to see her,Ophelia  reappears - mad,Laertes is devestated,3374,505,260,PA,Ophelia,Laertes,0,0,-30,0,0.5
+100,K and Lae become aligned to seek justice/revenge,King  and Lae align,to seek justice,3422,460,675,PA,Claudius,Laertes,0,0,-30,0,0.5
+101,Laertes returns secretly from France,Laertes returns,in secret,3186,395,50,PA,Laertes,0,0,0,-30,0,0.5
+102,Hor receives letter from Ham and letters for K & Q,Hor receives letter ,from Hamlet,3442,750,200,PA,Horatio,sailors,0,0,-30,0,0.5
+103,Hor leaves with sailors to del letters to K & Q and then return to Ham,Hor leaves to, del letters to K&Q,3472,700,250,PA,Horatio,sailors,0,0,-30,0,0.5
+104,Hamlet sails to England with Ros & Gilder,Ham sails with ,R & G,3092,645,855,PA,Hamlet,Rosencrantz,Guildenstern,0,-30,0,0.5
+105,Hamlet finds the letter about his execution  changes it to have R&G killed,Ham finds  and, changes letter,3095,685,900,PA,Hamlet,0,0,0,-30,0,0.5
+106,Pirates attack Hamlet's ship,Ham ship attacked ,by pirates,3097,610,950,PA,Hamlet,0,0,0,-30,0,0.5
+107,Hamlet boards the pirates ship,Ham grapples,boards pirate,3103,650,900,PA,Hamlet,0,0,0,-30,0,0.5
+108,Hamlet and pirates return to Denmark,Ham and pirates ,return to Den,3107,685,810,PA,Hamlet,Rosencrantz,Guildenstern,0,-30,0,0.5
+109,R&G's ship sails to England,Ship with R&G ,goes to Eng,3107,350,300,PA,Rosencrantz,Guildenstern,0,0,-30,0,0.5
+110,Hamlet writes letters to King  Queen   Horatio,Ham writes letters ,to Ho  K  Q,3107,700,800,PA,Hamlet,0,0,0,-30,0,0.5
+111,Hamlet arrives back in Denmark and sends for Horatio,Ham arrives Den , sends to Ho,3117,720,720,PA,Hamlet,sailors,0,0,-30,0,0.5
+112,Lae pushes K on why no justice  revenge for Pol death,Lae questions King ,no punishment?,3475,500,300,PA,Laertes,Claudius,0,0,-30,0,0.5
+113,Messenger gives K letters for K and Q from Ham,K gets letter from Ham,from Ham,3513,420,625,PA,Claudius,messenger,0,0,-30,0,0.5
+114,K and L devise duel plot,King & Laertes plot,duel,3520,300,600,PA,Claudius,Laertes,0,0,-30,0,0.5
+115,Lae decides to poison sword,Lae decides to ,poison sword,3633,520,385,PA,Laertes,Claudius,0,0,-30,0,0.5
+116,K decides backup plan: poison wine,King decides ,to poison wine,3643,480,590,PA,Claudius,Laertes,0,0,-30,0,0.5
+117,Q brings news of Oph death; K & Q follow Lae,Q brings news ,Ophelia dead,3661,320,785,PA,Gertrude,Laertes,Claudius,0,-30,0,0.5
+118,Oph goes to willow over brook to make garlands,Ophelia making, garlands,3416,450,325,PA,Ophelia,0,0,0,-30,0,0.5
+119,Branch breaks and Oph falls into water,Branch breaks ,Ophelia falls into water,3421,425,400,PA,Ophelia,0,0,0,-30,0,0.5
+120,Oph sings and doesn't try to swim to save herself,Oph sings but ,doesn't try to swim,3426,475,350,PA,Ophelia,0,0,0,-30,0,0.5
+121,Oph's clothes sink and she drowns,Oph drowns ,,3431,400,200,PA,Ophelia,0,0,0,-30,0,0.5
+122,gravediggers talk; skulls; ask whose grave,Ham & Ho talk ,with gravediggers,3796,790,600,PA,Hamlet,Horatio,gravediggers,0,-30,0,0.5
+123,Ham learns that Oph has died,Ham learns,of Ophelia death,4019,820,685,PA,Hamlet,Horatio,Laertes,0,-30,0,0.5
+124,Lae blames Ham for Oph losing mind over Pol; Ham appears; they grapple,Ham & Lae,grapple,4049,700,650,PA,Hamlet,Horatio,Laertes,0,-30,0,0.5
+125,Ham prof love for Oph; doesn't know why Lae feels the way he does,Ham professes love,for Ophelis,4077,750,650,PA,Hamlet,Claudius,Gertrude,0,-30,0,0.5
+126,K tells Lae that they will put plan into action right away,King  tells Lae,to start plan now,4107,410,700,PA,Claudius,Gertrude,Horatio,0,-30,0,0.5
+127,Ham tells Hor how he took letter from R & G; learned his fate,Ham tells Ho about Kings,murder plot,4115,900,710,PA,Hamlet,Horatio,0,0,-30,0,0.5
+128,Ham writes new letter saying R & G to be put to death,Ham writes new letter,R&G will be killed,4147,875,750,PA,Hamlet,Horatio,0,0,-30,0,0.5
+129,Ham says Lae grief fired him up; regrets; sees similarity with Lae position,Lae grief effects,Hamlet,4178,850,800,PA,Hamlet,Horatio,0,0,-30,0,0.5
+130,Os tells Ham that K wager Lae & Ham duel; Ham accepts,King requests duel,Hamlet accepts,4206,720,550,PA,Hamlet,Horatio,Osric,0,-30,0,0.5
+131,Ham ask pardon of Lae,Ham begs forgivness,from Laertes,4354,590,700,PA,Hamlet,Laertes,Claudius,0,-30,0,0.5
+132,Lae tries foil  selects the poison one,Lae tries foils,  selects the poisoned one,4397,600,150,PA,Laertes,0,0,0,-30,0,0.5
+133,Ham selects his foil,Ham chooses foil,,4398,800,550,PA,Hamlet,0,0,0,-30,0,0.5
+134,K sets out wine and drinks,King sets out wine,drinks some,4400,350,655,PA,Claudius,0,0,0,-30,0,0.5
+135,Ham & Lae begin to fence; several touches,Fencing begins,multiple touches,4413,655,755,PA,Hamlet,Laertes,0,0,-30,0,0.5
+136,K takes another drink; poisons wine; offers wine to Ham,King drinks then,poisons the wine,4420,375,700,PA,Claudius,Hamlet,0,0,-30,0,0.5
+137,Ham declines wine; says to continue fencing,Ham declines wine,,4423,800,690,PA,Hamlet,Claudius,0,0,-30,0,0.5
+138,Ham & Lae continue fencing; worked up  sweating,Ham & Lae continue,more touches,4424,450,800,PA,Hamlet,Laertes,0,0,-30,0,0.5
+139,Q offers to wipe brow; drinks poison wine,Q offers napkin,drinks poisoned wine,4427,300,725,PA,Gertrude,0,0,0,-30,0,0.5
+140,Ham declines to drink again,Ham declines wine,again,4434,775,810,PA,Hamlet,0,0,0,-30,0,0.5
+141,Lae says almost against conscience to hit Ham; proceeds to duel,Lae decides to stab,Hamlet,4438,625,310,PA,Laertes,0,0,0,-30,0,0.5
+142,Lae wounds Ham,Lae wounds Ham,,4444,650,360,PA,Hamlet,Laertes,0,0,-30,0,0.5
+143,Hamlet and Lae scuffle and switch swords,Ham & Lae scuffle,change foils,4444.4,690,510,PA,Hamlet,Laertes,0,0,-30,0,0.5
+144,Hamlet wounds Lae with poisoned sword,Ham wounds Lae,,4444.7,755,580,PA,Hamlet,Laertes,0,0,-30,0,0.5
+145,Queen falls ,Q falls,,4446,410,700,PA,Gertrude,0,0,0,-30,0,0.5
+146,Horatio asks why both Ham and Lae are both bleeding,Ho asks why, both bleeding,4448,810,300,PA,Horatio,Claudius,Osric,0,-30,0,0.5
+147,Lae admits to the treachery,Lae admits treachery,falls,4450,620,255,PA,Laertes,0,0,0,-30,0,0.5
+148,Ham asks about Q; K says swoon from blood; Q says wine poison,Ham asks about Q - King lies,Q says wine is posioned,4452,715,720,PA,Hamlet,Claudius,Gertrude,0,-30,0,0.5
+149,Queen dies,Queen dies,,4455,405,780,PA,Gertrude,0,0,0,-30,0,0.5
+150,Lae tells Ham of plot  K to blame; Ham wounded too,Lae tell Ham of,King's treachery,4456,760,575,PA,Hamlet,Laertes,Claudius,0,-30,0,0.5
+151,Hamlet wounds Kingwith poisoned sword,Ham wounds K,with posioned sword,4466,665,700,PA,Hamlet,Claudius,0,0,-30,0,0.5
+152,Hamlet accuses the King  forces him to drink posioned wine,Ham accuses King ,forces him to drink,4470,550,625,PA,Hamlet,Claudius,0,0,-30,0,0.5
+153,King dies,King dies,,4472,305,695,PA,Claudius,0,0,0,-30,0,0.5
+154,Lae says K deserved to die; asks forgive of Ham; says Ham not to blame,Lae asks forgiveness,forgives Hamlet,4473,450,200,PA,Laertes,0,0,0,-30,0,0.5
+155,Laertes dies,Laertes dies,,4477.5,520,320,PA,Laertes,0,0,0,-30,0,0.5
+156,Hamlet asks Horation to tell his story,Ham asks Ho, to tell his story,4478,850,800,PA,Hamlet,Horatio,0,0,-30,0,0.5
+157,Ho says he is more like ancient Roman  face suicide rather than loss; takes cup,Ho more incl suicide,takes cup,4487,810,290,PA,Horatio,0,0,0,-30,0,0.5
+158,Hamlet tells Ho not to die but to live and tell the story,Ham says no,Ho must tell story,4490,800,605,PA,Hamlet,Horatio,0,0,-30,0,0.5
+159,Ham learns of Fort arrival; gives support for Fort to be king,Ham learns of Fort,says Fort should be King,4499,900,650,PA,Hamlet,Horatio,Osric,0,-30,0,0.5
+160,Hamlet dies,Ham dies,,4510,935,810,PA,Hamlet,0,0,0,-30,0,0.5
+161,Fort arrives; Hor says he can tell story  Fort orders Ham body to be carried out in honor,Fortinbras arrives,Ham given funeral,4512,920,410,PA,Fortinbras,Horatio,ambassadors,0,-30,0,0.5
